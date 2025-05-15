@@ -19,19 +19,6 @@ The AI Photo Editor is a web application that leverages artificial intelligence 
 - **Deployment**: Docker, AWS EC2, GCP App Engine, Vercel
 - **Optional Mobile App**: React Native or Flutter
 
-## Project Structure
-```
-ai-photo-editor
-├── frontend
-│   ├── public
-│   ├── src
-│   └── package.json
-├── backend
-│   ├── app
-│   ├── requirements.txt
-│   └── Dockerfile
-├── docker-compose.yml
-└── README.md
 ```
 
 ## Setup Instructions
